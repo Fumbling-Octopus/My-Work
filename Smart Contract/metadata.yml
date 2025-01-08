@@ -1,0 +1,14 @@
+---
+:id: 278302509
+:submitters:
+- :name: Binghao Huang
+  :email: bhuang45@jh.edu
+- :name: Jiawei Hu
+  :email: jhu118@jh.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-16 01:36:53.535585000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-15 18:36:53.535585000 Z
+:status: processed
+:score: 100.0
